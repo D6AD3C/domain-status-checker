@@ -1,13 +1,13 @@
 {
-  "name": "web-monitor",
+  "name": "domain-status_checker",
   "version": "1.0.0",
-  "description": "",
+  "description": "The Domain Status Checker is a Node.js module designed to help developers determine the online/offline status of a list of domain names. By asynchronously checking the status of each domain name provided, this module returns the results as an array of objects containing the domain name and its status.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "Alex",
+  "license": "UNLICENSED",
   "dependencies": {
     "axios": "^1.6.8"
   }
